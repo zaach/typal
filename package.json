@@ -1,0 +1,14 @@
+{
+  "name": "typal",
+  "author": "Zach Carter (http://zaa.ch)",
+  "email": "zach@carter.name",
+  "keywords": [
+      "typal",
+      "class",
+      "prototypal",
+      "oop"
+  ],
+  "githubName": "typal",
+  "type": "zip",
+  "location": "http://github.com/zaach/typal/zipball/master"
+}
